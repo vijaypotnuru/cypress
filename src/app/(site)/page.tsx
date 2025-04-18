@@ -19,6 +19,7 @@ const HomePage = () => {
     <>
       <section
         className=" overflow-hidden
+      ml-0
       px-4
       sm:px-6
       mt-10
@@ -34,6 +35,7 @@ const HomePage = () => {
         />
         <div
           className="bg-white
+          w-[1px]
           p-[2px]
           mt-6
           rounded-xl
@@ -50,6 +52,7 @@ const HomePage = () => {
             p-6
             text-2xl
             bg-background
+            ml-0
           "
           >
             Get Cypress Free
@@ -57,6 +60,7 @@ const HomePage = () => {
         </div>
         <div
           className="md:mt-[-90px]
+          w-1/2
           sm:w-full
           w-[750px]
           flex
