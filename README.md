@@ -2,6 +2,7 @@
 
 ![Application Logo](https://raw.githubusercontent.com/webprodigies/webprodigies-cypress/main/public/cover.png)
 
+#tailwind
 
 | 🟢 Full Video | 🔴 Demo |
 |------------|------|
